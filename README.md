@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Hualdop/cardComponent)
+- Solution URL:(https://github.com/Hualdop/cardComponent)
 - Live Site URL: [Add live site URL here](https://hualdop.github.io/cardComponent/)
 
 
