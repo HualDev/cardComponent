@@ -104,6 +104,7 @@ p{
     .container{
         flex-direction: column;
         top: 105%;
+        width:300px;
         }
 
     .sedans{
